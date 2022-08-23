@@ -1,5 +1,7 @@
 ### Hi there 👋
-Why don't you also have a look at my [dev.to 📘](https://dev.to/ablx) posts?
+Why don't you also have a look at my posts on [verbosemode.dev 📘](https://verbosemode.dev)?
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y1EKYJI)
 
 <!--
 **ablx/ablx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
